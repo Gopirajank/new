@@ -1,6 +1,5 @@
 import "./intro.scss";
-import { init } from "ityped";
-import { useEffect, useRef } from "react";
+
 import { FaGithub,  } from 'react-icons/fa'
 import { IoMdOpen } from 'react-icons/io'
 
